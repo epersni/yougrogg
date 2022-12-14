@@ -1,0 +1,125 @@
+{
+   "drinks": [
+      {
+         "id": 1,
+         "name": "Negroni",
+         "non-alcoholic": false,
+         "image": "negroni.jpg",
+         "ingredients":[
+            { "gin": 3 },
+            { "campari": 2 },
+            { "vermouth": 2 }
+           ]
+      },
+      {
+         "id": 2,
+         "non-alcoholic": false,
+         "name": "Gin & Tonic",
+         "image": "gin_and_tonic.jpg",
+         "ingredients":[
+            { "gin": 4 },
+            { "tonic": 15 }
+           ]
+      },
+      {
+         "id": 3,
+         "non-alcoholic": false,
+         "name": "Hugo",
+         "ingredients":[
+            { "fladersaft": 3 },
+            { "cava": 15 }
+           ]
+      },
+      {
+         "id": 4,
+         "name": "Refreshing Raspberry",
+         "image": "refreshing_raspberry.jpg",
+         "non-alcoholic": false,
+         "ingredients":[
+            { "hallonjuice": 2 },
+            { "light-rum": 5 },
+            { "sprite": 5 }
+           ]
+      },
+      {
+         "id": 5,
+         "name": "Americano",
+         "image": "americano.jpg",
+         "non-alcoholic": false,
+         "ingredients":[
+            { "campari": 3 },
+            { "red-vermouth": 3 },
+            { "sprite": 5 }
+           ]
+      },
+      {
+         "id": 6,
+         "name": "Paloma",
+         "image": "paloma.jpg",
+         "non-alcoholic": false,
+         "ingredients":[
+            { "tequila": 6 },
+            { "grape": 3 }
+           ]
+      },
+      {
+         "id": 7,
+         "name": "Screwdriver",
+         "image": "swrewdriver.jpg",
+         "non-alcoholic": false,
+         "ingredients":[
+            { "vodka": 3 },
+            { "orange_juice": 3 }
+           ]
+      },
+      {
+         "id": 9,
+         "name": "Greyhound",
+         "image": "greyhound.jpg",
+         "non-alcoholic": false,
+         "ingredients":[
+            { "vodka": 3 },
+            { "grape": 6 }
+           ]
+      },
+      {
+         "id": 10,
+         "name": "Garibaldi",
+         "image": "garibaldi.jpg",
+         "non-alcoholic": false,
+         "ingredients":[
+            { "campari": 2 },
+            { "orange_juice": 6 }
+           ]
+      },
+      {
+         "id": 11,
+         "name": "Rom & Cola",
+         "image": "rom_and_cola.jpg",
+         "non-alcoholic": false,
+         "ingredients":[
+            { "rum": 3 },
+            { "coke": 8 }
+           ]
+      },
+      {
+         "id": 12,
+         "name": "Cranberry-Juice",
+         "image": "cranberry-juice.jpg",
+         "non-alcoholic": false,
+         "ingredients":[
+            { "cranberryjuice": 10 }
+           ]
+      },
+      {
+         "id": 12,
+         "name": "Cape Codder",
+         "image": "cape_codder.jpg",
+         "non-alcoholic": false,
+         "ingredients":[
+            { "vodka": 4 },
+            { "cranberryjuice": 12 }
+           ]
+      }
+   ]
+}
